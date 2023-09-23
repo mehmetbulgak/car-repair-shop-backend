@@ -19,8 +19,5 @@ Overall, the project aims to simplify user management and enhance security in we
 - Node.js
 - Mongoose
 
-# License
-This project is licensed under the MIT License. For more information, see the LICENSE.md file.
-
 # Contact
 If you have any questions or feedback, please feel free to reach out to me at bulgakmehmet99@gmail.com or create an issue on GitHub.
